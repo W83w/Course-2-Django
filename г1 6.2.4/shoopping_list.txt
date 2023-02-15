@@ -1,0 +1,7 @@
+Matches:1:10
+Lemon:1:50
+Beans:1:50
+Banan
+Garbage Bears:1:50
+Apples:1:50
+Bananas:1:50
