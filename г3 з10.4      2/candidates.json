@@ -1,0 +1,39 @@
+[{
+  "id": 1,
+  "name": "Abela Hendricks",
+  "picture": "https://picsum.phoros/200",
+  "position": "Go разработчик",
+  "gender": "female",
+  "age": 49,
+  "skills": "go, python"
+
+},
+  {
+    "id": 2,
+    "name": "Sheri Torres",
+    "picture": "https://picsum.photos/200",
+    "position": "Delphi developer",
+    "gender": "female",
+    "age": 26,
+    "skills": "Delphi, pascal, fortran, basic"
+  },
+  {
+    "id": 3,
+    "name": "Burt Stein",
+    "picture": "https://picsum.photos/200",
+    "position": "Team lead",
+    "gender": "male",
+    "age": 33,
+    "skills": "Делегирование, пользоваться календарем, обсуждать важные вопросы"
+  },
+   {
+    "id": 4,
+    "name": "Bauer Adkins",
+    "picture": "https://picsum.photos/200",
+    "position": "DTO",
+    "gender": "male",
+    "age": 37,
+    "skills": "very important face"
+  }
+
+]
