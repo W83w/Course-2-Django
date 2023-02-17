@@ -1,0 +1,54 @@
+{
+   "Транспорт": {
+      "100": {
+         "question": "plane",
+         "answer": "самолет",
+         "asked": false
+      },
+      "200": {
+         "question": "train",
+         "answer": "поезд",
+         "asked": false
+      },
+      "300": {
+         "question": "bike",
+         "answer": "велосипед",
+         "asked": false
+      }
+   },
+   "Еда": {
+      "100": {
+         "question": "pineapple",
+         "answer": "ананас",
+         "asked": false
+      },
+      "200": {
+         "question": "carrot",
+         "answer": "морковь",
+         "asked": false
+      },
+      "300": {
+         "question": "garlic",
+         "answer": "чеснок",
+         "asked": false
+      }
+   },
+   "Одежда": {
+      "100": {
+         "question": "sweater",
+         "answer": "свитер",
+         "asked": false
+      },
+      "200": {
+         "question": "shirt",
+         "answer": "рубашка",
+         "asked": false
+      },
+      "300": {
+         "question": "pants",
+         "answer": "штаны",
+         "asked": false
+      }
+   }
+}
+
